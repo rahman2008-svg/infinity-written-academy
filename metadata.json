@@ -1,0 +1,6 @@
+{
+  "name": "Infinity Written Academy",
+  "description": "Infinity Written Academy — বাংলা ও ইংরেজি লিখিত প্রস্তুতি। লিখিত প্রস্তুতি হোক সহজ, সুন্দর ও আত্মবিশ্বাসী।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
